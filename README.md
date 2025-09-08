@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/itztazma8/Profile_utils/main/f1.jpeg">
+<img src="https://github.com/itztazma8/Profile_utils/blob/main/f1.jpeg">
