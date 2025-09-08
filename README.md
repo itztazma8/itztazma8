@@ -1,1 +1,1 @@
-<img src="https://github.com/itztazma8/Profile_utils/blob/main/tumblr_3ebef054c877d03c507aa8c40149908b_515b1f92_1280.webp">
+<img src="https://github.com/itztazma8/Profile_utils/blob/main/4ef608e95677dc3dab15a00df8148277.gif">
