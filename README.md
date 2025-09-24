@@ -19,5 +19,4 @@ Hi there! I'm Tazim, a developer who enjoys solving random problems online. Rece
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=plPz67QUdeWA&format=png&color=000000" />
 <img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=0JUBXbNc9AaZ&format=png&color=000000" />
 <br>
-<br>
-Check out all my projects below!
+
