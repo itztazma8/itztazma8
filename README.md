@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/itztazma8/Profile_utils/blob/main/84cc005b1b6afcb7a935e53eb2c0b374.gif">
+  <img src="https://github.com/itztazma8/Profile_utils/blob/main/luca.gif">
 </p>
 
 # Computer Science Enthusiast | Data Science Explorer | Coding Challenges
